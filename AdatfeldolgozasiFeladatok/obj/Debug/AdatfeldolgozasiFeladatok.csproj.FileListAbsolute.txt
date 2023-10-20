@@ -1,0 +1,7 @@
+C:\Users\Tanar\source\repos\AdatfeldolgozasiFeladatok\AdatfeldolgozasiFeladatok\bin\Debug\AdatfeldolgozasiFeladatok.exe.config
+C:\Users\Tanar\source\repos\AdatfeldolgozasiFeladatok\AdatfeldolgozasiFeladatok\bin\Debug\AdatfeldolgozasiFeladatok.exe
+C:\Users\Tanar\source\repos\AdatfeldolgozasiFeladatok\AdatfeldolgozasiFeladatok\bin\Debug\AdatfeldolgozasiFeladatok.pdb
+C:\Users\Tanar\source\repos\AdatfeldolgozasiFeladatok\AdatfeldolgozasiFeladatok\obj\Debug\AdatfeldolgozasiFeladatok.csproj.AssemblyReference.cache
+C:\Users\Tanar\source\repos\AdatfeldolgozasiFeladatok\AdatfeldolgozasiFeladatok\obj\Debug\AdatfeldolgozasiFeladatok.csproj.CoreCompileInputs.cache
+C:\Users\Tanar\source\repos\AdatfeldolgozasiFeladatok\AdatfeldolgozasiFeladatok\obj\Debug\AdatfeldolgozasiFeladatok.exe
+C:\Users\Tanar\source\repos\AdatfeldolgozasiFeladatok\AdatfeldolgozasiFeladatok\obj\Debug\AdatfeldolgozasiFeladatok.pdb
